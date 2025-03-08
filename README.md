@@ -4,6 +4,7 @@
 #### [Amazon](Amazon_Analysis/Amazon_Analysis.pdf)
 ### E-commerce and Technology
 #### [eBay](eBay_Analysis/eBay_Analysis.pdf)
+#### [Etsy](Etsy_Analysis/Etsy_Analysis.pdf)
 ## Industry
 ### Consumer Discretionary
 #### [Casino & Hospitality Industry](Casino_Hospitability_Industry_Analysis/Casino_Hospitality_Industry_Analysis.pdf) 
