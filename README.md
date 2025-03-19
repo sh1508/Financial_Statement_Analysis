@@ -2,6 +2,8 @@
 ## Company
 ### Mega-Cap Companies
 #### [Amazon](Amazon_Analysis/Amazon_Analysis.pdf)
+### Casino and Hospitality
+#### [MGM - 2024](MGM_Analysis/MGM_Analysis.pdf)
 ### E-commerce and Technology
 #### [eBay](eBay_Analysis/eBay_Analysis.pdf)
 #### [Etsy](Etsy_Analysis/Etsy_Analysis.pdf)
