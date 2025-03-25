@@ -1,4 +1,4 @@
-# Financial_Statements_Analysis
+# Financial_Statement_Analysis
 ## Company
 ### Mega-Cap Companies
 #### [Amazon](Amazon_Analysis/Amazon_Analysis.pdf)
