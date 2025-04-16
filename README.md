@@ -4,6 +4,7 @@
 #### [Amazon](Amazon_Analysis/Amazon_Analysis.pdf)
 ### Casino and Hospitality
 #### [MGM - 2024](MGM_Analysis/MGM_Analysis.pdf)
+#### [Las Vegas Sands - 2024](Sands_Analysis/Sands_Analysis.pdf)
 ### E-commerce and Technology
 #### [eBay](eBay_Analysis/eBay_Analysis.pdf)
 #### [Etsy](Etsy_Analysis/Etsy_Analysis.pdf)
