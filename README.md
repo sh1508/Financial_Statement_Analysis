@@ -8,6 +8,7 @@
 ### E-commerce and Technology
 #### [eBay - 2023](eBay_Analysis/eBay_Analysis.pdf)
 #### [Etsy - 2023](Etsy_Analysis/Etsy_Analysis.pdf)
+#### [Wayfair - 2024](Wayfair_Analysis/Wayfair_Analysis.pdf)
 ## Industry
 ### Consumer Discretionary
 #### [Casino & Hospitality Industry - 2023](Casino_Hospitability_Industry_Analysis/Casino_Hospitality_Industry_Analysis.pdf) 
